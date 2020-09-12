@@ -1,0 +1,53 @@
+* {
+  padding: 0;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.upper-header {
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.lower-header {
+  margin-top: 20px;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+.leftmenue {
+  float: left;
+  padding-left: 10px;
+}
+
+.filter {
+  width: 700px;
+  margin: auto;
+}
+
+.rightmenu {
+  float: right;
+  width: 100px;
+  padding-right: 10px;
+}
+
+.productslist {
+  width: 700px;
+  margin: auto;
+}
+
+.reviews {
+  width: 700px;
+  margin: auto;
+}
